@@ -7,7 +7,7 @@ import cors from "cors";
 
 app.use(
   cors({
-    origin: "http://dhrma.store",
+    origin: "https://dhrma.store",
     credentials: true
   })
 );
